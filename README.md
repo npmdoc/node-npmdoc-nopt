@@ -1,11 +1,13 @@
-# api documentation for  [nopt (v4.0.1)](https://github.com/npm/nopt#readme)  [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nopt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nopt)
+# api documentation for  [nopt (v4.0.1)](https://github.com/npm/nopt#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-nopt.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-nopt) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-nopt.svg)](https://travis-ci.org/npmdoc/node-npmdoc-nopt)
 #### Option parsing for Node, supporting types, shorthands, etc. Used by npm.
 
 [![NPM](https://nodei.co/npm/nopt.png?downloads=true)](https://www.npmjs.com/package/nopt)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-nopt/build/screen-capture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-nopt_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nopt/build..beta..travis-ci.org/apidoc.html)
+[![apidoc](https://npmdoc.github.io/node-npmdoc-nopt/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-nopt_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-nopt/build/apidoc.html)
 
-![package-listing](https://npmdoc.github.io/node-npmdoc-nopt/build/screen-capture.npmPackageListing.svg)
+![npmPackageListing](https://npmdoc.github.io/node-npmdoc-nopt/build/screenCapture.npmPackageListing.svg)
+
+![npmPackageDependencyTree](https://npmdoc.github.io/node-npmdoc-nopt/build/screenCapture.npmPackageDependencyTree.svg)
 
 
 
